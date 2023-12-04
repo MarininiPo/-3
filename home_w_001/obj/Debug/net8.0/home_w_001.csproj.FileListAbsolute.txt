@@ -1,0 +1,14 @@
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\bin\Debug\net8.0\home_w_001.exe
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\bin\Debug\net8.0\home_w_001.deps.json
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\bin\Debug\net8.0\home_w_001.runtimeconfig.json
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\bin\Debug\net8.0\home_w_001.dll
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\bin\Debug\net8.0\home_w_001.pdb
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\home_w_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\home_w_001.AssemblyInfoInputs.cache
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\home_w_001.AssemblyInfo.cs
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\home_w_001.csproj.CoreCompileInputs.cache
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\home_w_001.dll
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\refint\home_w_001.dll
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\home_w_001.pdb
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\home_w_001.genruntimeconfig.cache
+C:\Users\Денис Кадыров\Desktop\Домашнее задание, лекция 3\home_w_001\obj\Debug\net8.0\ref\home_w_001.dll
